@@ -67,9 +67,9 @@
 | Project | Domain | Key Tools | Highlights |
 | :--- | :--- | :--- | :--- |
 | **[LUMERA BI Dashboard](https://github.com/Ahmedx25/LUMERA-Business-Intelligence-Dashboard)** | Executive & Marketing BI | `Power BI` `DAX` `Figma` | 4-page dark-mode executive suite tracking 527K gross sales, 36.9% margin, and campaign ROI. |
+| **[Olist E-Commerce Analysis](https://github.com/Ahmedx25/Olist-ECommerce)** | E-Commerce & Retail | `SQL` `Power BI` `Python` | End-to-end Brazilian e-commerce analysis covering order delivery performance, customer satisfaction, and revenue trends. |
 | **[Healthcare Data Analytics](https://github.com/Ahmedx25)** | Healthcare & Operations | `Power BI` `Star Schema` `SQL` | End-to-end clinical & operational data modeling with interactive KPIs. |
 | **[Supply Chain Logistics](https://github.com/Ahmedx25)** | Supply Chain & Inventory | `Power BI` `Power Query` `Excel` | Shipment tracking, delivery bottlenecks, and regional cost optimization. |
-
 ---
 
 ### 📈 GitHub Analytics
