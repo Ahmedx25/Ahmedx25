@@ -17,7 +17,7 @@
   <a href="mailto:ahmedabdelfattah5655@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ahmedx25?tab=repositories">
+  <a href="https://ahmed-portfolio-indol.vercel.app/#">
     <img src="https://img.shields.io/badge/Portfolio-2d1b4e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
